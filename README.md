@@ -24,4 +24,3 @@ I’m interested in embedded systems, IoT and simple coding projects.
 
 - HTML
 - CSS
-- JavaScript
